@@ -1,0 +1,173 @@
+.photo {
+	width: 100%;
+	margin-bottom: 15px;
+}
+
+#sekcjap {
+	background-color: white;
+	min-width: 100vw;
+	min-height: 100vh;
+	padding-left: 50px;
+	padding-top: 50vh;
+	color: #000000;
+	size: 15 ;
+	
+}
+#button{
+	background-color: black;
+	color: white;
+}
+#button2{
+	background-color: white;
+	color: black;
+}
+#sekcja1 {
+	background-color: white;
+	min-width: 100vw;
+	min-height: 100vh;
+	padding: 20px;
+	color: black;
+	padding-top: 50px;
+}
+
+#sekcja2 {
+	background-color: black;
+	min-width: 100vw;
+	min-height: 100vh;
+	padding: 20px;
+	color: white;
+	padding-top: 50px;
+}
+#cz1
+{
+	background-color: black;
+	min-width: 100%;
+	min-height: 100%;
+	padding: 20px;
+	color: white;
+	padding-top: 50px;
+}
+#cz2
+{
+	background-color: white;
+	min-width: 100%;
+	min-height: 100%;
+	padding: 20px;
+	color: black;
+	padding-top: 50px;
+}
+#cz3
+{
+	background-color: black;
+	min-width: 100%;
+	min-height: 100%;
+	padding: 20px;
+	color: white;
+	padding-top: 50px;
+}
+#cz4
+{
+	background-color: white;
+	min-width: 100%;
+	min-height: 100%;
+	padding: 20px;
+	color: black;
+	padding-top: 50px;
+}
+#cz5
+{
+	background-color: black;
+	min-width: 100%;
+	min-height: 100%;
+	padding: 20px;
+	color: white;
+	padding-top: 50px;
+}
+#cz6
+{
+	background-color: white;
+	min-width: 100%;
+	min-height: 100%;
+	padding: 20px;
+	color: black;
+	padding-top: 50px;
+}
+#cz7
+{
+background-color: black;
+	min-width: 100%;
+	min-height: 100%;
+	padding: 20px;
+	color: white;
+	padding-top: 50px;	
+}
+#hp1{
+	width: 100%;
+	padding-top: 60px;
+	padding: 20px;
+}
+
+
+
+#sekcja3 {
+	background-color: white;
+	min-width: 100%;
+	min-height: 10vh;
+	padding: 20px;
+}
+
+nav {
+	background-color: white;
+}
+
+.moj-kolor {
+	background-color: black;
+}
+
+
+
+.footer {
+	padding: 15px;
+	background-color: rgb(30, 30, 30);
+	color: white;
+}
+
+#powitanie:hover {
+	color: #f5d0c5;
+	font-size: 50pt;
+	font-style: italic;
+	font-weight: bold;
+}
+#kolornag{
+	font-size: 55pt;
+}
+#kolor{
+	font-size: 35pt;
+	color: black;
+}
+#kolor2{
+	font-size: 35pt;
+	color: white;
+}
+
+#button {
+	font-size: 25pt;
+	
+}
+#czas {
+	background-color: black;
+	min-width: 100%;
+	min-height: 14vh;
+	padding: 0px;
+	color: white;
+	padding-top: 50px;
+}
+#sekcja4 {
+	background-color: white;
+	min-width: 100%;
+	min-height: 20vh;
+	padding: 0px;
+	color: black;
+	padding-top: 50px;
+}
+
